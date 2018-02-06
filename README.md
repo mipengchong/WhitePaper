@@ -7,3 +7,5 @@
 
 
 区块链白皮书 weixin：mipengchong
+
+感谢贡献者：@chenhao 
